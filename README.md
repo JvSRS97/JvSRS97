@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/JvSRS97/JvSRS97/blob/main/Dev4.png">
+<img align="left" width="400" height="400" src="https://github.com/JvSRS97/JvSRS97/blob/main/Dev4.png">
 </br></br>
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40"
@@ -12,7 +12,7 @@
 "Description here".
 
 </br></br>
-<span align="center">
+<span align="right">
     <a href="https://github.com/JvSRS97">
         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JvSRS97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvSRS97&layout=compact&langs_count=7&theme=github_dark" />
