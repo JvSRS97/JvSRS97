@@ -1,4 +1,4 @@
-<img align="right" width="550" height="400" src="https://github.com/JvSRS97/JvSRS97/blob/main/dev1.jpg">
+<img align="right" width="450" height="239" src="https://github.com/JvSRS97/JvSRS97/blob/main/dev1.jpg">
 </br></br>
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40"
