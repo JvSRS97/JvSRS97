@@ -8,7 +8,7 @@
 </div>
 
 ### João Victor Reis
-"Description here".
+Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Student of Applied and Computational Mathematics at the Federal University of Sergipe. 
 
 </br></br>
 <span align="left">
