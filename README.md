@@ -10,7 +10,7 @@
 </div>
 
 ### João Victor Reis
-Student of Computational Mathematics at the Federal University of Sergipe. Has experience with rational parameterization of algebraic hypersurfaces and computational arithmetic focused on cryptography, using mainly the C and Java programming languages. She has experience in analyzing and solving complex problems in the field of mathematics and computing. She has experience with data analysis and webscraping. Actively acted as a monitor in an extension project aimed at virtual monitoring of learning for basic subjects in the Mathematics Department. 
+Student of Computational Mathematics at the Federal University of Sergipe. Has experience with rational parameterization of algebraic hypersurfaces and computational arithmetic focused on cryptography, using mainly the C and Java programming languages. Has experience in analyzing and solving complex problems in the field of mathematics and computing. She has experience with data analysis and webscraping. Actively acted as a monitor in an extension project aimed at virtual monitoring of learning for basic subjects in the Mathematics Department. 
 
 </br></br>
 <span align="left">
