@@ -5,8 +5,6 @@
         src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="left" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### João Victor Reis
